@@ -1,0 +1,18 @@
+r = {
+ u: 'input[name=username]',
+ p: 'input[name=password]'
+}
+
+t = empty object 
+
+When form gets submitted 
+
+for each e in r
+	1. r[e]
+	2. r[e]
+
+filling t with 
+	
+
+btoa = encodes a string into base-64
+
